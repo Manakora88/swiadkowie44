@@ -1,2 +1,2 @@
-# swiadkowie44
-Strona internetowa z uczestnikami Powstania Warszawskigo - wywiady i historie świadków wydarzeń z 1944 roku.
+# swiadkowie44-website
+Website dedicated to the living Heroes of the Warsaw Uprising - interviews with people who saw and made history. 

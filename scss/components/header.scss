@@ -1,0 +1,42 @@
+.header {
+    max-height: 300px;
+    display: block;
+    color: white;
+    font-size: 14px;
+    padding: 0 20px;
+    .logo {
+        span {
+            color: #C63D0F;
+            font-weight: 700;
+            font-size: 24px;
+        }
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        li {
+            text-transform: uppercase;
+            display: inline-block;
+            padding: 0 10px;
+            font-size: 14px;
+            line-height: 70px;
+            font-weight: 700;
+            position: relative;
+        }
+  }
+}
+@media screen and (min-width: 800px) {
+    .header {
+        height: 70px;
+        display: flex;
+        font-size: 18px;
+        align-items: center;
+        justify-content: space-between;
+        .logo {
+            span {
+                font-size: 30px;
+            }
+        }
+    }
+}

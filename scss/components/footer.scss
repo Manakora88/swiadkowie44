@@ -1,0 +1,31 @@
+footer {
+    display: block;
+    color: white;
+    font-size: 12px;
+    line-height: 70px;
+    padding: 0 20px;
+    .socialmedia {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .media {
+            padding-top: 15px;
+            margin: 0 4px;
+            display: inline-block;
+        }
+    }
+}
+
+@media screen and (min-width: 600px) {
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 16px;
+        .socialmedia {
+            .media {
+                margin: 0 10px;
+            }
+        }
+    }
+}

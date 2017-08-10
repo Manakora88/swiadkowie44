@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+.picture {
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    font-family: 'Podkova', serif;
+    position: relative;
+    width: 198px;
+    height: 300px;
+    margin-left: 25%;
+    .description {
+        background-color: rgba(253,243,231,.7);
+        width: 100%;
+        min-height: 35px;
+        padding: 5px 0;
+        position: absolute;
+        top: 250px;
+        font-size: 14px;
+        text-align: center;
+        color: #3B3738;
+        font-weight: 700;
+        span:last-child {
+            font-size: 12px;
+            font-weight: 400;
+        }
+    }
+}
+@media screen and (min-width: 600px) {
+    .picture {
+        display: inline-block;
+        margin-left: 0;
+        width: 30%;
+        height: 300px;
+    }
+}
+@media screen and (min-width: 800px) {
+    .picture {
+        width: 20%;
+    }
+}
+//źródła zdjęć:
+// T. Zapałowski - zdjęcie własne
+// I. Leszczyńska - http://wroclaw.gosc.pl/doc/2980512.Knieje-co-szumia-cale-zycie
+// S. Likiernik - http://www.dailymail.co.uk/wires/ap/article-3863922/Property-restitution-issue-Poland-long-communism.html
+// M. Gutowska - zdjęcie własne
+// W. Kieżun - http://gosc.pl/doc/1454070.Gdybym-mial-20-lat-mniej

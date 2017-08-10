@@ -1,0 +1,71 @@
+.fot {
+    display: none;
+}
+.characteristic {
+    display: block;
+    width: 100%;
+    padding: 0;
+    p {
+        width: 100%;
+        text-align: justify;
+        font-size: 18px;
+        font-weight: 700;
+        padding-top: 5px 0 5px 0;
+        span {
+            color: #C63D0F;
+        }
+    }
+}
+.talk {
+    width: 100%;
+}
+.redactor, .hero {
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+    width: 100%;
+    font-weight: 700;
+    text-align: justify;
+    p {
+        padding: 5px;
+    }
+}
+.redactor {
+    margin-left: 0;
+    color: #C63D0F;
+    border-radius: 40px 40px 40px 0;
+}
+
+.hero {
+    margin-left: 0;
+    color: #000;
+    border-radius: 40px 40px 0 40px;
+}
+
+@media screen and (min-width: 1000px){
+    .fot {
+        display: inline-block;
+        width: 288px;
+        margin-left: 0;
+    }
+    .characteristic {
+        display: inline-block;
+        width: 688px;
+        padding-left: 30px;
+    }
+    .redactor {
+        margin-left: 5%;
+        width: 80%;
+    }
+    .hero {
+        margin-left: 10%;
+        width: 80%;
+    }
+}
+
+// źródła wywiadów:
+// T. Zapałowski - materiały własne
+// I. Leszczyńska - http://www.1944.pl/archiwum-historii-mowionej/irena-leszczynska,47.html
+// S. Likiernik - https://wiadomosci.wp.pl/bohater-powstania-stanislaw-likiernik-opowiada-o-kulisach-zamachu-na-panienke-6078979673945217a
+// M. Gutowska - materiały własne
+// W. Kieżun - http://www.sikorka.com.pl/index.php/category-blog/salonik-polityczny/1087-100-tys-warszawiakow-zostalo-skazanych-na-kare-smierci

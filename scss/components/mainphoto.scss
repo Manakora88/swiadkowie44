@@ -1,0 +1,41 @@
+.pic {
+    position: relative;
+}
+
+.quotation {
+    width: 100%;
+    min-height: 200px;
+    font-family: 'Podkova', serif;
+    line-height: 24px;
+    background-color: rgba(23,22,22,.6);
+    color: #fff;
+    font-weight: 900;
+    font-size: 20px;
+    position: absolute;
+    top: 195px;
+    p {
+        margin: 30px;
+        padding: 0;
+    }
+    p:last-child {
+        font-size: 14px;
+        text-align: right;
+    }
+}
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .quotation {
+        width: 60%;
+        margin-left: 20%;
+        top: 195px;
+    }
+}
+@media screen and (min-width: 801px) {
+    .quotation {
+        width: 60%;
+        margin-left: 20%;
+        top: 270px;
+    }
+}
+
+
+//źródło zdjęcia głównego: http://www.polskieradio.pl/7/166/Artykul/1649857,Rocznica-Powstania-Warszawskiego-z-piesnia-na-ustach

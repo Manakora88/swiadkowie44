@@ -1,0 +1,31 @@
+.warsaw {
+    .map {
+        img {
+            width: 100%;
+        }
+        @media screen and (min-width: 800px) {
+            img {
+                width: 700px;
+                height: 500px;
+                margin-left: 15%;
+            }
+        }
+    }
+    .note {
+        width: 100%;
+        font-size: 16px;
+        text-align: justify;
+        font-weight: 400;
+        line-height: 22px;
+        color: #3B3738;
+        p {
+            padding: 20px 0;
+            span {
+                color: #C63D0F;
+                font-weight: 700;
+            }
+        }
+    }
+}
+
+//mapa: https://blogs.bodleian.ox.ac.uk/maps/2013/02/08/139/
