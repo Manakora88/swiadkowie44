@@ -36,7 +36,7 @@ Website dedicated to the living Heroes of the Warsaw Uprising - interviews with 
     * T. Zapałowski - own materials
     * I. Leszczyńska - http://www.1944.pl/archiwum-historii-mowionej/irena-leszczynska,47.html
     * S. Likiernik - https://wiadomosci.wp.pl/bohater-powstania-stanislaw-likiernik-opowiada-o-kulisach-zamachu-na-panienke-6078979673945217a
-    * M. Gutowska - materiały własne
+    * M. Gutowska - own materials
     * W. Kieżun - http://www.sikorka.com.pl/index.php/category-blog/salonik-polityczny/1087-100-tys-warszawiakow-zostalo-skazanych-na-kare-smierci
 
 
