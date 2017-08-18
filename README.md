@@ -21,6 +21,7 @@ Website dedicated to the living Heroes of the Warsaw Uprising - interviews with 
 * Stylesheets - SASS and CSS
 * Automatic code splitting using multiple entry points
 * PostCSS - Auto-Prefixer
+* RWD
 
 ## Sources ##
 
